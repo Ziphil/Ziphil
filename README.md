@@ -9,10 +9,30 @@
 
 
 ### About
-Neko.
+A neko who likes programming and artificial languages, and dislikes graphical interface.
 
 ### Skills
-<img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-JavaScript-D8C007.svg?logo=javascript&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Groovy-4298B8.svg?logo=groovy&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Kotlin-0095D5.svg?logo=kotlin&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Haskell-5D4F85.svg?logo=haskell&logoColor=white&style=flat">
+<dl>
+  <dt>Proficient</dt>
+  <dd>
+    <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=flat">
+    <img src="https://img.shields.io/badge/-Groovy-4298B8.svg?logo=groovy&logoColor=white&style=flat">
+    <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&logoColor=white&style=flat">
+    <img src="https://img.shields.io/badge/-HTML-E34F26.svg?logo=html5&logoColor=white&style=flat">
+    <img src="https://img.shields.io/badge/-SCSS-CC6699.svg?logo=sass&logoColor=white&style=flat">
+  </dd>
+  <dt>Intermediate</dt>
+  <dd>
+    <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&logoColor=white&style=flat">
+    <img src="https://img.shields.io/badge/-Haskell-5D4F85.svg?logo=haskell&logoColor=white&style=flat">
+  </dd>
+  <dt>Beginner</dt>
+  <dd>
+    <img src="https://img.shields.io/badge/-Kotlin-0095D5.svg?logo=kotlin&logoColor=white&style=flat">
+    <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&logoColor=white&style=flat">
+  </dd>
+</dl>
 
 ### Works
 See [my repository list](https://github.com/Ziphil/Repositories).
+This is a curated list of my repositories with brief explanations.
