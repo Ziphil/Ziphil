@@ -10,6 +10,7 @@
 
 ### About
 A neko who likes programming and artificial languages, and dislikes graphical interface.
+May everything be made by lines of code.
 
 ### Skills
 <dl>
@@ -29,10 +30,12 @@ A neko who likes programming and artificial languages, and dislikes graphical in
   <dt>Beginner</dt>
   <dd>
     <img src="https://img.shields.io/badge/-Kotlin-0095D5.svg?logo=kotlin&logoColor=white&style=flat">
+    <img src="https://img.shields.io/badge/-C%23-239120.svg?logo=c-sharp&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&logoColor=white&style=flat">
   </dd>
 </dl>
 
 ### Works
-See [my repository list](https://github.com/Ziphil/Repositories).
+I am currently working on “[ZpDIC Online](https://github.com/Ziphil/ZpdicOnlineNova)”, a web application for conlangers.
+See also [my repository list](https://github.com/Ziphil/Repositories).
 This is a curated list of my repositories with brief explanations.
