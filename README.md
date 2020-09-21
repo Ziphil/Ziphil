@@ -23,7 +23,7 @@ May everything be made by lines of code.
   <dt>Proficient</dt>
   <dd>
     <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=flat">
-    <img src="https://img.shields.io/badge/-JavaScript-D8C007.svg?logo=javascript&logoColor=white&style=flat">
+    <img src="https://img.shields.io/badge/-JavaScript-D4BE08.svg?logo=javascript&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/-Groovy-4298B8.svg?logo=groovy&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/-HTML-E34F26.svg?logo=html5&logoColor=white&style=flat">
