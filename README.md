@@ -1,15 +1,9 @@
 <div align="center">
 <h1>
   Ziphil Aleshlas<br>
-  <a href="https://twitter.com/Ziphil">
-    <img src="https://img.shields.io/twitter/follow/Ziphil?label=Twitter&logo=twitter&logoColor=white&labelColor=1DA1F2&color=555555&style=flat">
-  </a>
-  <a href="https://github.com/Ziphil">
-    <img src="https://img.shields.io/github/followers/Ziphil?label=Github&logo=github&logoColor=white&labelColor=24292E&color=555555&style=flat">
-  </a>
-  <a href="http://ziphil.com">
-    <img src="https://img.shields.io/badge/-My%20Website-white?color=5966A6&style=flat">
-  </a>
+  <a href="https://twitter.com/Ziphil"><img src="https://img.shields.io/twitter/follow/Ziphil?label=Twitter&logo=twitter&logoColor=white&labelColor=1DA1F2&color=555555&style=flat"></a>
+  <a href="https://github.com/Ziphil"><img src="https://img.shields.io/github/followers/Ziphil?label=Github&logo=github&logoColor=white&labelColor=24292E&color=555555&style=flat"></a>
+  <a href="http://ziphil.com"><img src="https://img.shields.io/badge/-My%20Website-white?color=5966A6&style=flat"></a>
 </h1>
 </div>
 
