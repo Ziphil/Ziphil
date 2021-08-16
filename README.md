@@ -3,7 +3,7 @@
   Ziphil Aleshlas<br>
   <a href="https://twitter.com/Ziphil"><img src="https://img.shields.io/twitter/follow/Ziphil?label=Twitter&logo=twitter&logoColor=white&labelColor=1DA1F2&color=555555&style=flat"></a>
   <a href="https://github.com/Ziphil"><img src="https://img.shields.io/github/followers/Ziphil?label=Github&logo=github&logoColor=white&labelColor=24292E&color=555555&style=flat"></a>
-  <a href="http://ziphil.com"><img src="https://img.shields.io/badge/-My%20Website-white?color=5966A6&style=flat"></a>
+  <a href="http://ziphil.com"><img src="https://img.shields.io/badge/-Website-white?color=5966A6&style=flat"></a>
 </h1>
 </div>
 
@@ -52,5 +52,6 @@ May everything be made by lines of code.
 </dl>
 
 ### Works
-I am currently working on “[ZpDIC Online](https://github.com/Ziphil/ZpdicOnlineNova)”, a web application for conlangers.
-See also [my repository list](https://github.com/Ziphil/Repositories), which is a curated list of my repositories with brief explanations.
+Please visit the following repository, where you can find a curated list of my repositories with brief explanations.
+
+[![Ziphil/Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=Repositories)](https://github.com/Ziphil/Repositories)
