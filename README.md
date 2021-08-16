@@ -1,57 +1,61 @@
 <div align="center">
-<h1>
-  Ziphil Aleshlas<br>
-  <a href="https://twitter.com/Ziphil"><img src="https://img.shields.io/twitter/follow/Ziphil?label=Twitter&logo=twitter&logoColor=white&labelColor=1DA1F2&color=555555&style=flat"></a>
-  <a href="https://github.com/Ziphil"><img src="https://img.shields.io/github/followers/Ziphil?label=Github&logo=github&logoColor=white&labelColor=24292E&color=555555&style=flat"></a>
-  <a href="http://ziphil.com"><img src="https://img.shields.io/badge/-Website-white?color=5966A6&style=flat"></a>
-</h1>
+  <h1>Ziphil Aleshlas</h1>
+</div>
+<div align="center">
+  <i>May everything be made by lines of code.</i>
 </div>
 
 
-### About
-Likes programming and artificial languages, and dislikes WYSIWYG editors.
-May everything be made by lines of code.
+<div align="center">
+  <h3>— Skills —</h3>
+</div>
+<table align="center">
+  <tr>
+    <td rowspan="2"><b>Proficient</b></td>
+    <td colspan="6">Languages</td><td colspan="2">Frameworks</td>
+  </tr>
+  <tr>
+    <td width="90" align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg"><br>TypeScript</td>
+    <td width="90" align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"><br>JavaScript</td>
+    <td width="90" align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ruby.svg"><br>TypeScript</td>
+    <td width="90" align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg"><br>HTML</td>
+    <td width="90" align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sass.svg"><br>SCSS</td>
+    <td width="90" align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"><br>CSS</td>
+    <td width="90" align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"><br>React</td>
+    <td width="90" align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webpack.svg"><br>Webpack</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Intermediate</b></td>
+    <td colspan="6">Languages</td><td colspan="2">Frameworks</td>
+  </tr>
+  <tr>
+    <td width="90" align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg"><br>Java</td>
+    <td width="90" align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/haskell.svg"><br>Haskell</td>
+    <td width="90" align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/latex.svg"><br>LaTeX</td>
+    <td colspan="3"></td>
+    <td width="90" align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg"><br>MongoDB</td>
+    <td width="90" align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/heroku.svg"><br>Heroku</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Learning</b></td>
+    <td colspan="6">Languages</td><td colspan="2">Frameworks</td>
+  </tr>
+  <tr>
+    <td width="90" align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kotlin.svg"><br>Kotlin</td>
+    <td width="90" align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg"><br>C#</td>
+    <td width="90" align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"><br>Python</td>
+    <td colspan="3"></td>
+    <td width="90" align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg"><br>Unity</td>
+    <td colspan="1"></td>
+  </tr>
+</table>
 
-### Skills
-<dl>
-  <dt>Proficient</dt>
-  <dd>
-    <em>Languages</em><br>
-    <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=flat">
-    <img src="https://img.shields.io/badge/-JavaScript-D4BE08.svg?logo=javascript&logoColor=white&style=flat">
-    <img src="https://img.shields.io/badge/-Groovy-4298B8.svg?logo=apache-groovy&logoColor=white&style=flat">
-    <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&logoColor=white&style=flat">
-    <img src="https://img.shields.io/badge/-HTML-E34F26.svg?logo=html5&logoColor=white&style=flat">
-    <img src="https://img.shields.io/badge/-SCSS-CC6699.svg?logo=sass&logoColor=white&style=flat">
-    <img src="https://img.shields.io/badge/-CSS-1572B6.svg?logo=css3&logoColor=white&style=flat">
-    <br>
-    <em>Frameworks</em><br>
-    <img src="https://img.shields.io/badge/-React-06BBEC.svg?logo=react&logoColor=white&style=flat">
-  </dd>
-  <dt>Intermediate</dt>
-  <dd>
-    <em>Languages</em><br>
-    <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&logoColor=white&style=flat">
-    <img src="https://img.shields.io/badge/-Haskell-5D4F85.svg?logo=haskell&logoColor=white&style=flat">
-    <img src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&logoColor=white&style=flat">
-    <br>
-    <em>Frameworks</em><br>
-    <img src="https://img.shields.io/badge/-MongoDB-47A248.svg?logo=mongodb&logoColor=white&style=flat">
-    <img src="https://img.shields.io/badge/-Heroku-430098.svg?logo=heroku&logoColor=white&style=flat">
-  </dd>
-  <dt>Beginner / Learning</dt>
-  <dd>
-    <em>Languages</em><br>
-    <img src="https://img.shields.io/badge/-Kotlin-0095D5.svg?logo=kotlin&logoColor=white&style=flat">
-    <img src="https://img.shields.io/badge/-C%23-239120.svg?logo=c-sharp&logoColor=white&style=flat">
-    <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&logoColor=white&style=flat">
-    <br>
-    <em>Frameworks</em><br>
-    <img src="https://img.shields.io/badge/-Unity-444444.svg?logo=unity&logoColor=white&style=flat">
-  </dd>
-</dl>
+<div align="center">
+  <h3>— Main Products —</h3>
+</div>
+<div align="center">
+<a href="https://github.com/Ziphil/ZpdicOnlineNova"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZpdicOnlineNova"></a>
+<a href="https://github.com/Ziphil/ZenithalMathWeb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZenithalMathWeb"></a>
+</div>
 
-### Works
-Please visit the following repository, where you can find a curated list of my repositories with brief explanations.
-
-[![Ziphil/Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=Repositories)](https://github.com/Ziphil/Repositories)
+For more information about my works, please visit [here](https://github.com/Ziphil/Repositories), where you can find a curated list of my repositories with brief explanations.
