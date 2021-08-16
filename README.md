@@ -30,12 +30,12 @@
     <td colspan="6">Languages</td><td colspan="3">Frameworks</td>
   </tr>
   <tr>
-    <td width="80" align="center"><sup>Java</sup><img width="40" src="icon/java.svg"></td>
-    <td width="80" align="center"><sup>Haskell</sup><img width="40" src="icon/haskell.svg"></td>
-    <td width="80" align="center"><sup>LaTeX</sup><img width="40" src="icon/latex.svg"></td>
+    <td width="80" align="center"><sup>Java</sup><br><img width="40" src="icon/java.svg"></td>
+    <td width="80" align="center"><sup>Haskell</sup><br><img width="40" src="icon/haskell.svg"></td>
+    <td width="80" align="center"><sup>LaTeX</sup><br><img width="40" src="icon/latex.svg"></td>
     <td colspan="3"></td>
-    <td width="80" align="center"><sup>MongoDB</sup><img width="40" src="icon/mongodb.svg"></td>
-    <td width="80" align="center"><sup>Heroku</sup><img width="40" src="icon/heroku.svg"></td>
+    <td width="80" align="center"><sup>MongoDB</sup><br><img width="40" src="icon/mongodb.svg"></td>
+    <td width="80" align="center"><sup>Heroku</sup><br><img width="40" src="icon/heroku.svg"></td>
     <td colspan="1"></td>
   </tr>
   <tr>
@@ -43,11 +43,11 @@
     <td colspan="6">Languages</td><td colspan="3">Frameworks</td>
   </tr>
   <tr>
-    <td width="80" align="center"><sup>Kotlin</sup><img width="40" src="icon/kotlin.svg"></td>
-    <td width="80" align="center"><sup>C#</sup><img width="40" src="icon/csharp.svg"></td>
-    <td width="80" align="center"><sup>Python</sup><img width="40" src="icon/python.svg"></td>
+    <td width="80" align="center"><sup>Kotlin</sup><br><img width="40" src="icon/kotlin.svg"></td>
+    <td width="80" align="center"><sup>C#</sup><br><img width="40" src="icon/csharp.svg"></td>
+    <td width="80" align="center"><sup>Python</sup><br><img width="40" src="icon/python.svg"></td>
     <td colspan="3"></td>
-    <td width="80" align="center"><sup>Unity</sup><img width="40" src="icon/unity.svg"></td>
+    <td width="80" align="center"><sup>Unity</sup><br><img width="40" src="icon/unity.svg"></td>
     <td colspan="2"></td>
   </tr>
 </table>
@@ -61,3 +61,13 @@
 </div>
 
 For more information about my works, please visit [here](https://github.com/Ziphil/Repositories), where you can find a curated list of my repositories with brief explanations.
+
+<div align="center">
+  <h3>— Links —</h3>
+</div>
+<div align="center">
+  <a href="https://twitter.com/Ziphil"><img width="16" src="icon/twitter.svg"> Twitter</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/channel/UCF2sTP1NGBVFr79aJiKprsg"><img width="16" src="icon/youtube.svg"> YouTube</a><br>
+  <a href="http://ziphil.com">My Webpage</a>
+</div>
