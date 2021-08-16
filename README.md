@@ -36,10 +36,11 @@
     <td colspan="3"></td>
     <td width="80" align="center"><sup>MongoDB</sup><img width="40" src="icon/mongodb.svg"></td>
     <td width="80" align="center"><sup>Heroku</sup><img width="40" src="icon/heroku.svg"></td>
+    <td colspan="1"></td>
   </tr>
   <tr>
     <td rowspan="2"><b>Learning</b></td>
-    <td colspan="6">Languages</td><td colspan="2">Frameworks</td>
+    <td colspan="6">Languages</td><td colspan="3">Frameworks</td>
   </tr>
   <tr>
     <td width="80" align="center"><sup>Kotlin</sup><img width="40" src="icon/kotlin.svg"></td>
@@ -47,7 +48,7 @@
     <td width="80" align="center"><sup>Python</sup><img width="40" src="icon/python.svg"></td>
     <td colspan="3"></td>
     <td width="80" align="center"><sup>Unity</sup><img width="40" src="icon/unity.svg"></td>
-    <td colspan="1"></td>
+    <td colspan="2"></td>
   </tr>
 </table>
 
