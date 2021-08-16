@@ -48,7 +48,8 @@
     <td width="80" align="center"><sup>Python</sup><br><img width="40" src="icon/python.svg"></td>
     <td colspan="3"></td>
     <td width="80" align="center"><sup>Unity</sup><br><img width="40" src="icon/unity.svg"></td>
-    <td colspan="2"></td>
+    <td width="80" align="center"><sup>AWS</sup><br><img width="40" src="icon/amazonaws.svg"></td>
+    <td colspan="1"></td>
   </tr>
 </table>
 
