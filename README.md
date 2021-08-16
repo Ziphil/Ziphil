@@ -12,40 +12,41 @@
 <table align="center">
   <tr>
     <td rowspan="2"><b>Proficient</b></td>
-    <td colspan="6">Languages</td><td colspan="2">Frameworks</td>
+    <td colspan="6">Languages</td><td colspan="3">Frameworks</td>
   </tr>
   <tr>
-    <td width="90" align="center"><img width="50" src="icon/typescript.svg"><br>TypeScript</td>
-    <td width="90" align="center"><img width="50" src="icon/javascript.svg"><br>JavaScript</td>
-    <td width="90" align="center"><img width="50" src="icon/ruby.svg"><br>TypeScript</td>
-    <td width="90" align="center"><img width="50" src="icon/html.svg"><br>HTML</td>
-    <td width="90" align="center"><img width="50" src="icon/sass.svg"><br>SCSS</td>
-    <td width="90" align="center"><img width="50" src="icon/css.svg"><br>CSS</td>
-    <td width="90" align="center"><img width="50" src="icon/react.svg"><br>React</td>
-    <td width="90" align="center"><img width="50" src="icon/webpack.svg"><br>Webpack</td>
+    <td width="80" align="center"><sup>TypeScript</sup><br><img width="40" src="icon/typescript.svg"></td>
+    <td width="80" align="center"><sup>JavaScript</sup><br><img width="40" src="icon/javascript.svg"></td>
+    <td width="80" align="center"><sup>Ruby</sup><br><img width="40" src="icon/ruby.svg"></td>
+    <td width="80" align="center"><sup>HTML</sup><br><img width="40" src="icon/html.svg"></td>
+    <td width="80" align="center"><sup>SCSS</sup><br><img width="40" src="icon/sass.svg"></td>
+    <td width="80" align="center"><sup>CSS</sup><br><img width="40" src="icon/css.svg"></td>
+    <td width="80" align="center"><sup>React</sup><br><img width="40" src="icon/react.svg"></td>
+    <td width="80" align="center"><sup>Electron</sup><br><img width="40" src="icon/electron.svg"></td>
+    <td width="80" align="center"><sup>Webpack</sup><br><img width="40" src="icon/webpack.svg"></td>
   </tr>
   <tr>
     <td rowspan="2"><b>Intermediate</b></td>
-    <td colspan="6">Languages</td><td colspan="2">Frameworks</td>
+    <td colspan="6">Languages</td><td colspan="3">Frameworks</td>
   </tr>
   <tr>
-    <td width="90" align="center"><img width="50" src="icon/java.svg"><br>Java</td>
-    <td width="90" align="center"><img width="50" src="icon/haskell.svg"><br>Haskell</td>
-    <td width="90" align="center"><img width="50" src="icon/latex.svg"><br>LaTeX</td>
+    <td width="80" align="center"><sup>Java</sup><img width="40" src="icon/java.svg"></td>
+    <td width="80" align="center"><sup>Haskell</sup><img width="40" src="icon/haskell.svg"></td>
+    <td width="80" align="center"><sup>LaTeX</sup><img width="40" src="icon/latex.svg"></td>
     <td colspan="3"></td>
-    <td width="90" align="center"><img width="50" src="icon/mongodb.svg"><br>MongoDB</td>
-    <td width="90" align="center"><img width="50" src="icon/heroku.svg"><br>Heroku</td>
+    <td width="80" align="center"><sup>MongoDB</sup><img width="40" src="icon/mongodb.svg"></td>
+    <td width="80" align="center"><sup>Heroku</sup><img width="40" src="icon/heroku.svg"></td>
   </tr>
   <tr>
     <td rowspan="2"><b>Learning</b></td>
     <td colspan="6">Languages</td><td colspan="2">Frameworks</td>
   </tr>
   <tr>
-    <td width="90" align="center"><img width="50" src="icon/kotlin.svg"><br>Kotlin</td>
-    <td width="90" align="center"><img width="50" src="icon/csharp.svg"><br>C#</td>
-    <td width="90" align="center"><img width="50" src="icon/python.svg"><br>Python</td>
+    <td width="80" align="center"><sup>Kotlin</sup><img width="40" src="icon/kotlin.svg"></td>
+    <td width="80" align="center"><sup>C#</sup><img width="40" src="icon/csharp.svg"></td>
+    <td width="80" align="center"><sup>Python</sup><img width="40" src="icon/python.svg"></td>
     <td colspan="3"></td>
-    <td width="90" align="center"><img width="50" src="icon/unity.svg"><br>Unity</td>
+    <td width="80" align="center"><sup>Unity</sup><img width="40" src="icon/unity.svg"></td>
     <td colspan="1"></td>
   </tr>
 </table>
@@ -54,8 +55,8 @@
   <h3>— Main Products —</h3>
 </div>
 <div align="center">
-<a href="https://github.com/Ziphil/ZpdicOnlineNova"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZpdicOnlineNova"></a>
-<a href="https://github.com/Ziphil/ZenithalMathWeb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZenithalMathWeb"></a>
+<a href="https://github.com/Ziphil/ZpdicOnlineNova"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZpdicOnlineNova" width="350"></a>
+<a href="https://github.com/Ziphil/ZenithalMathWeb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZenithalMathWeb" width="350"></a>
 </div>
 
 For more information about my works, please visit [here](https://github.com/Ziphil/Repositories), where you can find a curated list of my repositories with brief explanations.
