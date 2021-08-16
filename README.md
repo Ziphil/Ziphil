@@ -9,7 +9,7 @@
 
 
 ### About
-A neko who likes programming and artificial languages, and dislikes WYSIWYG editors.
+Likes programming and artificial languages, and dislikes WYSIWYG editors.
 May everything be made by lines of code.
 
 ### Skills
