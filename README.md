@@ -12,7 +12,7 @@
 <table align="center">
   <tr>
     <td rowspan="2"><b>Proficient</b></td>
-    <td colspan="5">Languages</td><td colspan="3">Frameworks</td>
+    <td colspan="4">Languages</td><td colspan="3">Frameworks</td>
   </tr>
   <tr>
     <td width="80" align="center"><sup>TypeScript</sup><br><img width="40" src="icon/typescript.svg"></td>
@@ -25,27 +25,26 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Intermediate</b></td>
-    <td colspan="5">Languages</td><td colspan="3">Frameworks</td>
+    <td colspan="4">Languages</td><td colspan="3">Frameworks</td>
   </tr>
   <tr>
     <td width="80" align="center"><sup>Java</sup><br><img width="40" src="icon/java.svg"></td>
     <td width="80" align="center"><sup>Haskell</sup><br><img width="40" src="icon/haskell.svg"></td>
     <td width="80" align="center"><sup>LaTeX</sup><br><img width="40" src="icon/latex.svg"></td>
-    <td colspan="2"></td>
+    <td colspan="1"></td>
     <td width="80" align="center"><sup>MongoDB</sup><br><img width="40" src="icon/mongodb.svg"></td>
     <td width="80" align="center"><sup>Heroku</sup><br><img width="40" src="icon/heroku.svg"></td>
     <td colspan="1"></td>
   </tr>
   <tr>
     <td rowspan="2"><b>Learning</b></td>
-    <td colspan="5">Languages</td><td colspan="3">Frameworks</td>
+    <td colspan="4">Languages</td><td colspan="3">Frameworks</td>
   </tr>
   <tr>
     <td width="80" align="center"><sup>Kotlin</sup><br><img width="40" src="icon/kotlin.svg"></td>
     <td width="80" align="center"><sup>C#</sup><br><img width="40" src="icon/csharp.svg"></td>
     <td width="80" align="center"><sup>Python</sup><br><img width="40" src="icon/python.svg"></td>
     <td width="80" align="center"><sup>Go</sup><br><img width="40" src="icon/go.svg"></td>
-    <td colspan="1"></td>
     <td width="80" align="center"><sup>vue.js</sup><br><img width="40" src="icon/vue.svg"></td>
     <td width="80" align="center"><sup>Unity</sup><br><img width="40" src="icon/unity.svg"></td>
     <td width="80" align="center"><sup>AWS</sup><br><img width="40" src="icon/amazonaws.svg"></td>
