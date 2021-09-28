@@ -16,7 +16,6 @@
   </tr>
   <tr>
     <td width="80" align="center"><sup>TypeScript</sup><br><img width="40" src="icon/typescript.svg"></td>
-    <td width="80" align="center"><sup>JavaScript</sup><br><img width="40" src="icon/javascript.svg"></td>
     <td width="80" align="center"><sup>Ruby</sup><br><img width="40" src="icon/ruby.svg"></td>
     <td width="80" align="center"><sup>HTML</sup><br><img width="40" src="icon/html.svg"></td>
     <td width="80" align="center"><sup>SCSS</sup><br><img width="40" src="icon/sass.svg"></td>
@@ -45,7 +44,8 @@
     <td width="80" align="center"><sup>Kotlin</sup><br><img width="40" src="icon/kotlin.svg"></td>
     <td width="80" align="center"><sup>C#</sup><br><img width="40" src="icon/csharp.svg"></td>
     <td width="80" align="center"><sup>Python</sup><br><img width="40" src="icon/python.svg"></td>
-    <td colspan="2"></td>
+    <td width="80" align="center"><sup>Go</sup><br><img width="40" src="icon/go.svg"></td>
+    <td colspan="1"></td>
     <td width="80" align="center"><sup>vue.js</sup><br><img width="40" src="icon/vue.svg"></td>
     <td width="80" align="center"><sup>Unity</sup><br><img width="40" src="icon/unity.svg"></td>
     <td width="80" align="center"><sup>AWS</sup><br><img width="40" src="icon/amazonaws.svg"></td>
