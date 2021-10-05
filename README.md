@@ -10,9 +10,10 @@
   <h3>— Skills —</h3>
 </div>
 <table align="center">
+  <tr></tr>
   <tr>
     <td rowspan="2"><b>Proficient</b></td>
-    <td colspan="4">Languages</td><td colspan="3">Frameworks</td>
+    <td colspan="4"><b>Languages</b></td><td colspan="3"><b>Frameworks</b></td>
   </tr>
   <tr>
     <td width="80" align="center"><sup>TypeScript</sup><br><img width="40" src="icon/typescript.svg"></td>
@@ -25,7 +26,7 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Intermediate</b></td>
-    <td colspan="4">Languages</td><td colspan="3">Frameworks</td>
+    <td colspan="4"><b>Languages</b></td><td colspan="3"><b>Frameworks</b></td>
   </tr>
   <tr>
     <td width="80" align="center"><sup>Java</sup><br><img width="40" src="icon/java.svg"></td>
@@ -38,7 +39,7 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Learning</b></td>
-    <td colspan="4">Languages</td><td colspan="3">Frameworks</td>
+    <td colspan="4"><b>Languages</b></td><td colspan="3"><b>Frameworks</b></td>
   </tr>
   <tr>
     <td width="80" align="center"><sup>Kotlin</sup><br><img width="40" src="icon/kotlin.svg"></td>
@@ -66,9 +67,24 @@ For more information about my works, please visit [here](https://github.com/Ziph
 <div align="center">
   <h3>— Links —</h3>
 </div>
-<div align="center">
-  <a href="https://twitter.com/Ziphil"><img width="16" src="icon/twitter.svg"> Twitter</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.youtube.com/channel/UCF2sTP1NGBVFr79aJiKprsg"><img width="16" src="icon/youtube.svg"> YouTube</a><br>
-  <a href="http://ziphil.com">My Webpage</a>
-</div>
+<table align="center">
+  <tr></tr>
+  <tr><td colspan="2"><b>Social</b></td></tr>
+  <tr>
+    <td width="200">
+      <img src="icon/twitter.svg" width="40" align="left">
+      <sub>Twitter</sub><br><a href="https://twitter.com/Ziphil">@Ziphil</a>
+    </td>
+    <td width="200">
+      <img src="icon/youtube.svg" width="40" align="left">
+      <sub>YouTube</sub><br><a href="https://www.youtube.com/channel/UCF2sTP1NGBVFr79aJiKprsg">Ziphil Shaleiras</a>
+    </td>
+  </tr>
+  <tr><td colspan="2"><b>Webpage</b></td></tr>
+  <tr>
+    <td width="200">
+      <sub>My webpage</sub><br><a href="http://ziphil.com">Avendia</a>
+    </td>
+    <td width="200"></td>
+  </tr>
+</table>
