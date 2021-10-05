@@ -10,7 +10,6 @@
   <h3>— Skills —</h3>
 </div>
 <table align="center">
-  <tr></tr>
   <tr>
     <td rowspan="2"><b>Proficient</b></td>
     <td colspan="4"><b>Languages</b></td><td colspan="3"><b>Frameworks</b></td>
@@ -68,7 +67,6 @@ For more information about my works, please visit [here](https://github.com/Ziph
   <h3>— Links —</h3>
 </div>
 <table align="center">
-  <tr></tr>
   <tr><td colspan="2"><b>Social</b></td></tr>
   <tr>
     <td width="200">
@@ -80,10 +78,10 @@ For more information about my works, please visit [here](https://github.com/Ziph
       <sub>YouTube</sub><br><a href="https://www.youtube.com/channel/UCF2sTP1NGBVFr79aJiKprsg">Ziphil Shaleiras</a>
     </td>
   </tr>
-  <tr><td colspan="2"><b>Webpage</b></td></tr>
+  <tr><td colspan="2"><b>Website</b></td></tr>
   <tr>
     <td width="200">
-      <sub>My webpage</sub><br><a href="http://ziphil.com">Avendia</a>
+      <sub>Personal website</sub><br><a href="http://ziphil.com">Avendia</a>
     </td>
     <td width="200"></td>
   </tr>
