@@ -1,7 +1,4 @@
 <div align="center">
-  <h1>Ziphil Aleshlas</h1>
-</div>
-<div align="center">
   <i>May everything be made by lines of code.</i>
 </div>
 
