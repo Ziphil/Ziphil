@@ -55,7 +55,7 @@
 <a href="https://github.com/Ziphil/ZpdicOnlineNova"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZpdicOnlineNova" width="350"></a>
 <a href="https://github.com/Ziphil/ConlangPortal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ConlangPortal" width="350"></a><br>
 <a href="https://github.com/Ziphil/TypescriptZatlin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=TypescriptZatlin" width="350"></a>
-<a href="https://github.com/Ziphil/ZenithalMathWeb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZenithalMathWeb" width="350"></a>
+<a href="https://github.com/Ziphil/ZenmlZotica"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZenmlZotica" width="350"></a>
 </div>
 
 For more information about my works, please visit [here](https://github.com/Ziphil/Repositories), where you will find a curated list of my repositories with brief explanations.
