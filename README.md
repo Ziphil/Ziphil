@@ -8,43 +8,63 @@
 </div>
 <table align="center">
   <tr>
-    <td rowspan="2"><b>Proficient</b></td>
-    <td colspan="4"><b>Languages</b></td><td colspan="3"><b>Frameworks</b></td>
+    <td rowspan="4"><b>Proficient</b></td>
+    <td colspan="5">Languages</td>
   </tr>
   <tr>
     <td width="80" align="center"><sup>TypeScript</sup><br><img width="40" src="icon/typescript.svg"></td>
     <td width="80" align="center"><sup>Ruby</sup><br><img width="40" src="icon/ruby.svg"></td>
     <td width="80" align="center"><sup>HTML</sup><br><img width="40" src="icon/html.svg"></td>
     <td width="80" align="center"><sup>SCSS</sup><br><img width="40" src="icon/sass.svg"></td>
+    <td colspan="1"></td>
+  </tr>
+  <tr>
+    <td colspan="5">Frameworks / Environments</td>
+  </tr>
+  <tr>
     <td width="80" align="center"><sup>React</sup><br><img width="40" src="icon/react.svg"></td>
     <td width="80" align="center"><sup>Electron</sup><br><img width="40" src="icon/electron.svg"></td>
     <td width="80" align="center"><sup>Webpack</sup><br><img width="40" src="icon/webpack.svg"></td>
+    <td colspan="2"></td>
   </tr>
   <tr>
-    <td rowspan="2"><b>Intermediate</b></td>
-    <td colspan="4"><b>Languages</b></td><td colspan="3"><b>Frameworks</b></td>
+    <td rowspan="4"><b>Intermediate</b></td>
+    <td colspan="5">Languages</td>
   </tr>
   <tr>
     <td width="80" align="center"><sup>Java</sup><br><img width="40" src="icon/java.svg"></td>
     <td width="80" align="center"><sup>Haskell</sup><br><img width="40" src="icon/haskell.svg"></td>
     <td width="80" align="center"><sup>LaTeX</sup><br><img width="40" src="icon/latex.svg"></td>
-    <td colspan="1"></td>
-    <td width="80" align="center"><sup>MongoDB</sup><br><img width="40" src="icon/mongodb.svg"></td>
-    <td width="80" align="center"><sup>Heroku</sup><br><img width="40" src="icon/heroku.svg"></td>
-    <td colspan="1"></td>
+    <td colspan="2"></td>
   </tr>
   <tr>
-    <td rowspan="2"><b>Learning</b></td>
-    <td colspan="4"><b>Languages</b></td><td colspan="3"><b>Frameworks</b></td>
+    <td colspan="5">Frameworks / Environments</td>
+  </tr>
+  <tr>
+    <td width="80" align="center"><sup>MongoDB</sup><br><img width="40" src="icon/mongodb.svg"></td>
+    <td width="80" align="center"><sup>Heroku</sup><br><img width="40" src="icon/heroku.svg"></td>
+    <td colspan="3"></td>
+  </tr>
+  <tr>
+    <td rowspan="4"><b>Learning</b></td>
+    <td colspan="5">Languages</td>
   </tr>
   <tr>
     <td width="80" align="center"><sup>Kotlin</sup><br><img width="40" src="icon/kotlin.svg"></td>
     <td width="80" align="center"><sup>C#</sup><br><img width="40" src="icon/csharp.svg"></td>
     <td width="80" align="center"><sup>Python</sup><br><img width="40" src="icon/python.svg"></td>
     <td width="80" align="center"><sup>Go</sup><br><img width="40" src="icon/go.svg"></td>
+    <td width="80" align="center"><sup>Solidity</sup><br><img width="40" src="icon/solidity.svg"></td>
+  </tr>
+  <tr>
+    <td colspan="5">Frameworks / Environments</td>
+  </tr>
+  <tr>
     <td width="80" align="center"><sup>vue.js</sup><br><img width="40" src="icon/vue.svg"></td>
     <td width="80" align="center"><sup>Unity</sup><br><img width="40" src="icon/unity.svg"></td>
     <td width="80" align="center"><sup>AWS</sup><br><img width="40" src="icon/amazonaws.svg"></td>
+    <td width="80" align="center"><sup>Ethereum</sup><br><img width="40" src="icon/ethereum.svg"></td>
+    <td colspan="1"></td>
   </tr>
 </table>
 
