@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <td rowspan="4"><b>Proficient</b></td>
-    <td colspan="5">Languages</td>
+    <td colspan="5"><b>Languages</b></td>
   </tr>
   <tr>
     <td width="80" align="center"><sup>TypeScript</sup><br><img width="40" src="icon/typescript.svg"></td>
@@ -19,7 +19,7 @@
     <td colspan="1"></td>
   </tr>
   <tr>
-    <td colspan="5">Frameworks / Environments</td>
+    <td colspan="5"><b>Frameworks / Environments</b></td>
   </tr>
   <tr>
     <td width="80" align="center"><sup>React</sup><br><img width="40" src="icon/react.svg"></td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td rowspan="4"><b>Intermediate</b></td>
-    <td colspan="5">Languages</td>
+    <td colspan="5"><b>Languages</b></td>
   </tr>
   <tr>
     <td width="80" align="center"><sup>Java</sup><br><img width="40" src="icon/java.svg"></td>
@@ -38,7 +38,7 @@
     <td colspan="2"></td>
   </tr>
   <tr>
-    <td colspan="5">Frameworks / Environments</td>
+    <td colspan="5"><b>Frameworks / Environments</b></td>
   </tr>
   <tr>
     <td width="80" align="center"><sup>MongoDB</sup><br><img width="40" src="icon/mongodb.svg"></td>
@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td rowspan="4"><b>Learning</b></td>
-    <td colspan="5">Languages</td>
+    <td colspan="5"><b>Languages</b></td>
   </tr>
   <tr>
     <td width="80" align="center"><sup>Kotlin</sup><br><img width="40" src="icon/kotlin.svg"></td>
@@ -57,7 +57,7 @@
     <td width="80" align="center"><sup>Solidity</sup><br><img width="40" src="icon/solidity.svg"></td>
   </tr>
   <tr>
-    <td colspan="5">Frameworks / Environments</td>
+    <td colspan="5"><b>Frameworks / Environments</b></td>
   </tr>
   <tr>
     <td width="80" align="center"><sup>vue.js</sup><br><img width="40" src="icon/vue.svg"></td>
