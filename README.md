@@ -74,7 +74,7 @@
 <div align="center">
 <a href="https://github.com/Ziphil/ZpdicOnlineNova"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZpdicOnlineNova" width="350"></a>
 <a href="https://github.com/Ziphil/ConlangPortal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ConlangPortal" width="350"></a><br>
-<a href="https://github.com/Ziphil/TypescriptZatlin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=TypescriptZatlin" width="350"></a>
+<a href="https://github.com/Ziphil/ZatlinTypescript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZatlinTypescript" width="350"></a>
 <a href="https://github.com/Ziphil/ZenmlZotica"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZenmlZotica" width="350"></a>
 </div>
 
